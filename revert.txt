@@ -1,1 +1,2 @@
 hello, try a revert git
+edit after commit, then use revert git
